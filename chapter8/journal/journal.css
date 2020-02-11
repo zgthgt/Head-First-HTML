@@ -5,7 +5,17 @@ src url ("http://wickeldysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular
 }
 body {
 font-family: Verdana, Geneva, Arial, sans-serif;
+font-size: small;
 }
-h1 {
+h1, h2 {
+color: #cc6600;
+border-bottom: thin dotted #cc6600;
+}
+h2 {
 font-family: "Emblema One", sans-serif;
+font-size: 130%;
+font-weight: normal;
+}
+blockquote {
+font-style: italic;
 }
