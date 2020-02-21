@@ -12,14 +12,15 @@ font-size: 150%;
 h2 {
 font-size: 130%;
 }
-p.guarantee {
+#guarantee {
 font-family: Georgia, "Times New Roman", Times, serif;
 font-style: italic;
 color: #444444;
 line-height: 1.9em;
 border-color: black;
 border-width: 1px;
-border-style: solid;
+border-style: dashed;
+border-color: white;
 background-color: #a7cece;
 padding: 25px;
 padding-left: 80px;
@@ -28,4 +29,7 @@ margin-right: 250px;
 background-image: url(images/background.gif);
 background-repeat: no-repeat;
 background-position: top left;
+border-width: thin;
+border-color: #ff000;
+
 }
