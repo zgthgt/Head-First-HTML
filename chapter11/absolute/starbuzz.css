@@ -15,7 +15,8 @@ body {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
+  margin:           0px 330px 10px 10px;
+
 }
 
 #sidebar {
@@ -23,9 +24,13 @@ body {
   font-size:        105%;
   padding:          15px;
   margin:           0px 10px 10px 10px;
+position: absolute;
+top: 128px;
+right: 0px;
+width: 280px;
 }
 
-#footer {
+#footer {https://www.google.com/search?client=ubuntu&channel=fs&q=notepad+ubuntu&ie=utf-8&oe=utf-8
   background-color: #675c47;
   color:            #efe5d0;
   text-align:       center;
